@@ -6,5 +6,4 @@ amadeus==11.0.0
 razorpay==1.4.2
 twilio==9.3.7
 sendgrid==6.11.0
-setuptools
-
+setuptools<81
